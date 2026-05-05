@@ -1,0 +1,4 @@
+SELECT *
+FROM Orders
+WHERE reason IN ('KHACH_HUY', 'QUAN_DONG_CUA', 'KHONG_CO_TAI_XE', 'BOM_HANG');
+-- 
